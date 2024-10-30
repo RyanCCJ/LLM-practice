@@ -1,2 +1,6 @@
+.gitignore
 VENV
-
+Practice_III/NVIDIA_practice
+.DS_Store
+*/.DS_Store
+*/*/.DS_Store
