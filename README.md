@@ -10,8 +10,8 @@
 
 文章內容請參考以下章節：
 
-- [LLM 首部曲 - Building Applications with APIs](https://ryanccj.github.io/blog/2024/LLM-I)
+- [LLM 首部曲: Building Applications with APIs](https://ryanccj.github.io/blog/2024/LLM-I)
 - [LLM 二部曲: Prompting and Alignment (SFT+RL)](https://ryanccj.github.io/blog/2024/LLM-II)
-- [LLM 三部曲 - Retrieval Augmented Generation (RAG)](https://ryanccj.github.io/blog/2024/LLM-III)
+- [LLM 三部曲: Retrieval Augmented Generation (RAG)](https://ryanccj.github.io/blog/2024/LLM-III)
 
 ![](cover.png)
